@@ -124,9 +124,7 @@ Vous pouvez supprimer ces clés et ce dossier.
 
 - **Converter AT3** : © 2026 INF3C7ONxR7. Tous droits réservés.
 - **Décodeur ATRAC3plus** (`Converter_AT3.Atrac3Plus.dll`) : adaptation du décodeur ATRAC3+ de
-  [FFmpeg](https://ffmpeg.org/) (© 2010-2013 Maxim Poliakovski), sous licence GNU LGPL 2.1 ou ultérieure. La licence
-  est livrée avec l’application (`Converter_AT3.Atrac3Plus.LICENSE.txt`) et le code source de cette bibliothèque est
-  joint à chaque version (`Converter_AT3.Atrac3Plus-source.zip`). Vous pouvez la remplacer par une version modifiée.
+  [FFmpeg](https://ffmpeg.org/) (© 2010-2013 Maxim Poliakovski), sous licence GNU LGPL 2.1 ou ultérieure.
 - **Codec ATRAC3** (`atrac3.acm`) : codec de Sony.
 - **Logos Discord et GitHub** : tracés de [Simple Icons](https://simpleicons.org/) (CC0) ; ces logos sont des marques
   de leurs propriétaires.
