@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo de Converter AT3" width="128">
+  <img src="https://zupimages.net/up/26/42/bjm0.png" alt="Logo de Converter AT3" width="128">
 </p>
 
 <h1 align="center">Converter AT3</h1>
