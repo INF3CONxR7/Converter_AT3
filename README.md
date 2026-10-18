@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Resources/Discord/Assets/converterat3.png" alt="Logo de Converter AT3" width="128">
-</p>
-
 <h1 align="center">Converter AT3</h1>
 
 <p align="center">
